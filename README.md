@@ -6,6 +6,9 @@ This project implements a computer vision pipeline for autonomous aerial vehicle
 - 3x3 Sudoku Light Grid (with red/yellow lamps)
 
 Algorithms are based on OpenCV and written in C++.
+## Documentation
+
+📄 [English Technical Report](docs/vision_report_en.md)
 
 ## Features
 
