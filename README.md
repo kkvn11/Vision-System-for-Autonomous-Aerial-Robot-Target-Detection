@@ -1,4 +1,4 @@
-# Vehicle Vision Tracking System
+# Vision System for Autonomous Aerial Robot Target Detection
 
 This project implements a computer vision pipeline for autonomous aerial vehicles to detect:
 - Pick-up Zones (black box with white edges)
